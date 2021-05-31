@@ -13,4 +13,4 @@ For additional API references for `Nextflow tower`  and ocnfiuring lifesciences 
 
 Also refer to `https://cloud.google.com/community/tutorials/secrets-manager-python` on using secret manager to store Nextflow tokens
 
-![alt text](https://github.com/hradhakrishnan/Google-cloud-fuctions-dsub/blob/master/fastqc_gcp.png)
+![alt text](https://github.com/hradhakrishnan/Google-cloud-fuctions-Nextflow-Tower/blob/main/nf-tower.png) 
