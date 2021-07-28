@@ -7,7 +7,7 @@
  The functions uses API calls to a configured workflow/Actions on `Seqera Nextflow Tower` which in turn triggers the pipeline on `Google cloud lifescience API` or your preferred compute environment. This allows us to automate execution of pipeline jobs based on file events on GCP. The function can be easily modified to adopt to other bioinformatic tools out there.
 
 
-For additional API references for `Nextflow tower`  and ocnfiuring lifesciences API, please refer to their API documentation and examples. 
+For additional API references for `Nextflow tower`  and configuring lifesciences API, please refer to their API documentation and examples. 
 
 `Cloud Life Sciences API` provides a simple way to execute a series of Compute Engine containers on Google Cloud.
 
